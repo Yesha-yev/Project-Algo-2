@@ -1,1 +1,5 @@
-jenis_tanaman,harga,jarak_tumbuh(cm2),kebutuhan_nitrogen,jenis_lahan
+jenis_tanaman,harga,jarak_tumbuh(cm2),kebutuhan_nitrogen,jenis_lahan,pupuk,efektif_tumbuhan
+bayam,10000,50,10,ladang,1,0.8
+cabai,12000,60,15,ladang,2,0.9
+kangkung,8000,40,8,ladang,3,0.85
+tomat,15000,70,20,ladang,4,0.95

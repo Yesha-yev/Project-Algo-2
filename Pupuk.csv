@@ -1,1 +1,6 @@
-nama,nama_tanaman,nitrogen(kg),harga(kg)
+id_pupuk,nama,nitrogen(gram),efektif,harga(gram)
+1,pupuk_1,500,60,2000
+2,pupuk_2,100,30,3000
+3,pupuk_3,200,50,2500
+4,pupuk_4,300,40,1500
+5,pupuk_5,400,70,1800
